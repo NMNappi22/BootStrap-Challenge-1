@@ -1,0 +1,44 @@
+
+.one{
+	background-color: #009942;
+	color: #80C2AF;
+	font-weight: normal;
+	text-align: center;
+	font-size: 60px;
+	height: 125px;
+	margin-top: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.two{
+	background-color: #FF4747;
+	color: #FF878F;
+	font-weight: normal;
+	text-align: center;
+	font-size: 60px;
+	height: 125px;
+	margin-top: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.three{
+	background-color: #5778FF;
+	color: #90AFFF;
+	font-weight: normal;
+	text-align: center;
+	font-size: 60px;
+	height: 125px;
+	margin-top: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.bargraph{
+	margin-top: 200px;
+	background-color: red;
+	border-width: 10px;
+	border-color: gray;
+	border-top: 10px;
+	border-right: 10px;
+	border-bottom: 10px;
+	border-left: 10px;
+}
